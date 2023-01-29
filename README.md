@@ -721,18 +721,15 @@ style.css
 
 
 ## Output:
-<<<<<<< HEAD
+
 ![output](./out1.png)
 ![output](./out2.png)
 ![output](./out3.png)
 ![Output](./out4.png)
-=======
-
-
->>>>>>> 7e83f8c97f283332ca546c6216d1bfdf1aea273e
 
 ## HTML Validator
 
+![valid](https://user-images.githubusercontent.com/119475507/215311575-c2ba547a-f9b5-4c21-80e8-a0e3ccedfc2f.png)
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
