@@ -716,7 +716,7 @@ style.css
             margin-right:auto;
 
         }
-
+```
 
 
 
@@ -724,7 +724,7 @@ style.css
 ![output](./out1.png)
 ![output](./out2.png)
 ![output](./out3.png)
-![output](./out4.png)
+![Output](./out4.png)
 
 ## HTML Validator
 ![output](./valid.png)
